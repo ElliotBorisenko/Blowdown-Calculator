@@ -1,0 +1,35 @@
+Blowdown time calculator by Elliot Borisenko (2023).
+Date: 2023-08-14 20:38:35.049974
+
+System volume (ft³): 1500.0
+System backpressure (psig): 0.0
+Atmospheric pressure (psia): 14.7
+Valve Cv @ 100% travel: 25.0
+Valve xT @ 100% travel: 0.35
+Molecular weight: 17.44
+
+Initial pressure (psig): 1500.0
+Initial temperature (°F): 70.0
+Initial compressibility, z: 0.95
+Initial heat capacity ratio, k: 1.4
+
+Final pressure (psig): 200.0
+Final temperature (°F): 40.0
+Final compressibility, z: 1.0
+Final heat capacity ratio, k: 1.4
+
+RESULTS: 
+
+ISA (Fp=1) blowdown time (min): 9.39
+ISA (Fp=1) maximum flow rate (MMscfd): 47.1
+ISA (Fp=1) average flow rate (MMscfd): 20.97
+
+Fisher blowdown time (min): 15.54
+Fisher maximum flow rate (MMscfd): 28.17
+Fisher average flow rate (MMscfd): 12.67
+
+Total mass change (lb): 6286.58
+
+Notes:
+
+Test
